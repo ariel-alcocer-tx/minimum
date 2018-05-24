@@ -27,3 +27,5 @@ Including steps for building and running a docker image for a Java Application t
    ```
     docker run tn/minimum:latest
    ```
+
+Tested on different CI Servers.
